@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Travel and Tourism Solution</title>
 </head>
 <body>
     <header>
@@ -24,12 +23,12 @@
     <section>
         <h2>Issues in Current System:</h2>
         <ol>
-            <li>Safety and Security Concerns:</li>
-            <li>Transportation Issues:</li>
-            <li>Language and Communication Barriers:</li>
-            <li>Overtourism:</li>
-            <li>Cultural Appropriation and Disrespect:</li>
-            <li>Accessibility Issues:</li>
+            <li>Safety and Security Concerns</li>
+            <li>Transportation Issues</li>
+            <li>Language and Communication Barriers</li>
+            <li>Overtourism</li>
+            <li>Cultural Appropriation and Disrespect</li>
+            <li>Accessibility Issues</li>
         </ol>
     </section>
     <section>
