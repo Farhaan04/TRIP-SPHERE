@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Travel and Tourism App</title>
 </head>
 <body>
   <h1>Travel and Tourism App</h1>
+  <h2>TRIP SPHERE</h2>
   <p>Welcome to our Travel and Tourism App repository! This project aims to provide users with a comprehensive platform for planning and exploring their travel destinations. With a wide range of features including multiple available travel modes, dark tourism suggestions, audio books about places, and more, our app is designed to enhance the travel experience.</p>
 
   <h2>Features:</h2>
