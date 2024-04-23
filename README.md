@@ -7,7 +7,7 @@
 <body>
     <header>
         <h1>TRIP SPHERE</h1>
-        <h2>Travel and Tourism(Impactech-2k24,Team-2k154 </h2>
+        <h2>To travel is to live.</h2>
     </header>
     <section>
         <h2>Introduction:</h2>
